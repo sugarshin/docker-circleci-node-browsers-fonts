@@ -1,4 +1,4 @@
-FROM circleci/node:12.13.1-browsers
+FROM circleci/node:12.17.0-browsers
 
 LABEL maintainer "Shingo Sato <shinsugar@gmail.com>"
 
